@@ -1,6 +1,5 @@
 Certainly! Here's the conversation in Markdown format:
 
-```
 **User:** write a python script to scrape https://news.ycombinator.com/item?id=35773705. Look for a div with class "comment" inside a div with class "default" and store it as a section. This section will have Location:
   Remote:
   Willing to relocate:
@@ -40,6 +39,6 @@ TypeError: 'NoneType' object is not subscriptable
 **User:** can you output this conversation into markdown?
 
 **Assistant:** Certainly! Here's the conversation in Markdown format: [Markdown provided]
-```
+
 
 I have omitted the content of the actual script and debugging advice provided in the Markdown for readability. If you need any specific part of the conversation included in the Markdown, please let me know.
