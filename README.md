@@ -1,3 +1,8 @@
+Scrape candidates from HN thread https://news.ycombinator.com/item?id=35773705 into a csv file. You can view the candidate list here: [https://github.com/subbu/ask-hn-candidate-list-chatgpt/blob/main/output.csv](https://github.com/subbu/ask-hn-candidate-list-chatgpt/blob/main/output.csv). Click on [raw](https://raw.githubusercontent.com/subbu/ask-hn-candidate-list-chatgpt/main/output.csv) to copy the raw data.
+
+You can generate json with this: https://github.com/subbu/ask-hn-candidate-list-chatgpt/blob/main/hn.py
+
+Here is the whole transcript.
 **User:** write a python script to scrape https://news.ycombinator.com/item?id=35773705. Look for a div with class "comment" inside a div with class "default" and store it as a section. This section will have Location:
   Remote:
   Willing to relocate:
